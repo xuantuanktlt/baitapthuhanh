@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="1.1"/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-12-03 09:07:34 SA"/>
+        <attribute name="created" value="VXNlcjtUREFULTAxMTAwNjsyMDI1LTExLTE4OzAxOjExOjA4IFBNOzIzMzI="/>
+        <attribute name="edited" value="VXNlcjtUREFULTAxMTAwNjsyMDI1LTExLTE4OzAxOjE0OjEwIFBNOzE7MjQzNg=="/>
+        <attribute name="edited" value="SFA7REVTS1RPUC1DQU5OM1JROzIwMjUtMTItMDM7MDk6MDc6MzQgU0E7MjsyNjE5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <input variable="&quot; SINH VIEN NGUYEN XUAN TUAN&quot;"/>
+            <output expression="&quot;MSV 245752021610068&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
